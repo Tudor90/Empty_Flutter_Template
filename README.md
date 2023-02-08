@@ -8,7 +8,7 @@ This project is a starting point for a Flutter application.
 
 # Part 1 - Let's complete the login!
 
-Update the login screen so that if you input a user and a password (admin/admin) you can enter the app and land on an empty page. The login button shoudl be disabled until you enter the right combination of user&password.
+Update the login screen so that if you input a user and a password (admin/admin) you can enter the app and land on an empty page. The login button should be disabled until you enter the right combination of user&password.
 
 # Part 2 - Let's make an application!
 
